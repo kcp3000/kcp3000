@@ -1,11 +1,11 @@
 
-# Hey there! 👋
+# Hey there! 
 
-I'm **KEVIN DELEON**, a **Design Engineer** based in New York City. 🗽
+I'm **KEVIN DELEON**, a **Design Engineer** based in New York City.
 
 I'm a creator at heart. I love bringing ideas to life by combining thoughtful design with development to create beautiful, functional websites and digital experiences.
 
-## 💻 Tech Stack
+## TECH STACK
 
 **Frontend**
 - React
@@ -21,19 +21,19 @@ I'm a creator at heart. I love bringing ideas to life by combining thoughtful de
 - PostgreSQL
 - Knex.js
 
-## 🎨 Design
+## DESIGN
 
 I primarily use **Figma** and **Adobe Photoshop** to create wireframes, edit photos, and develop low- and high-fidelity designs.
 
-## 🚀 Featured Projects
+## 🚀 FEATURED PROJECTS
 
 I've pinned a few projects below, but two of my personal favorites are:
 
 - **Personal Portfolio** — My own corner of the internet, where I showcase my work, creativity, and design philosophy.
 - **Pokédex DexNav** — One of my favorite projects, combining my passion for development with interactive design.
 
-## 🔗 Let's Connect!
+## 🔗 LET'S CONNECT
 
 Want to learn more about me and the projects I've worked on?
 
-**Check out my [portfolio website]([YOUR_PORTFOLIO_URL](https://portfolio-kcp3000s-projects.vercel.app/))!**
+**Check out my [portfolio website]([https://portfolio-kcp3000s-projects.vercel.app/])!**
